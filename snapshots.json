@@ -1,0 +1,50 @@
+{
+  "MARKETS": [
+    {
+      "stockSymbol": "TSLA",
+      "buy": {},
+      "sell": {},
+      "currentYesPrice": 0,
+      "currentNoPrice": 0
+    },
+    {
+      "stockSymbol": "AMZN",
+      "buy": {},
+      "sell": {},
+      "currentYesPrice": 0,
+      "currentNoPrice": 0
+    },
+    {
+      "stockSymbol": "AAPL",
+      "buy": {},
+      "sell": {},
+      "currentYesPrice": 0,
+      "currentNoPrice": 0
+    }
+  ],
+  "INR_BALANCES": {
+    "user1": {
+      "balance": 2000000,
+      "locked": 0
+    },
+    "user2": {
+      "balance": 3000000,
+      "locked": 0
+    }
+  },
+  "STOCK_BALANCES": {
+    "user1": {
+      "TSLA": {
+        "yes": {
+          "quantity": 200,
+          "locked": 0
+        },
+        "no": {
+          "quantity": 200,
+          "locked": 0
+        }
+      }
+    },
+    "user2": {}
+  }
+}
